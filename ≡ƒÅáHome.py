@@ -133,5 +133,3 @@ Harnessing the potential of Odisha's rivers offers immense opportunities for sus
 tab2.subheader("Harnessing the Potential of Odisha’s Rivers: Opportunities and Challenges")
 tab2.write(p5)
 
-st.switch_page("E:\python\water crisis\water_resource\iitbbsr\pages\3_≡ƒÆºWater_crisis.py")
-st.switch_page("E:\python\water crisis\water_resource\iitbbsr\pages\4_≡ƒÆ¼Get in Touch.py")
